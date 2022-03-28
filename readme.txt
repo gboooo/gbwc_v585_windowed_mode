@@ -1,5 +1,14 @@
-Installation:
-	Extract ddraw.dll and windowed.ini to the install directory
+Installation for GunboundR(gunbound.ca):
+	Extract ddraw.dll and windowed.ini to the install directory.
+	Edit the included "windowed.ini" to suit your preferences.
+
+Installation for GitzWC(gitzwc.com):
+	Extract ddraw.dll and windowed.ini to the install directory.
+	Enable windowed mode in launcher options.
+	Delete these files (or move to a different location).
+	  dxwnd.dll
+	  GitzWindowMode.dll
+	  wndmode.ini
 	Edit the included "windowed.ini" to suit your preferences.
 
 Usage:
