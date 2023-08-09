@@ -17,6 +17,7 @@
 4. Set desired resolution in "windowed.ini".
 5. Create a shortcut for the launcher. Always launch the game from this shortcut
 instead of the updater since it will replace our ddraw.dll with dxwnd.
+
 ![shortcut](/Untitled.png "shortcut")
 
 ## Usage
