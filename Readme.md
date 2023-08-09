@@ -1,8 +1,8 @@
-<h1>Installation for GunboundR(gunbound.ca)</h1>
+<h2>Installation for GunboundR(gunbound.ca)</h2>
 	Extract ddraw.dll and windowed.ini to the install directory.
 	Set desired resolution in "windowed.ini".
 
-<h1>Installation for GitzWC(gitzwc.com)</h1>
+<h2>Installation for GitzWC(gitzwc.com)</h2>
 	Extract ddraw.dll and windowed.ini to the install directory.
 	Enable windowed mode in launcher options.
 	Delete these files (or move to a different location).
@@ -15,7 +15,7 @@
 </p>
 	Create a shortcut for the launcher and always launch the game through this instead of the updater since it will overwrite our ddraw.dll
 
-<h1>Usage</h1>
+<h2>Usage</h2>
 	ALT+ENTER toggles fullscreen.
 	Click then drag anywhere within the top ~16 px of the window to reposition
 	in borderless windowed mode.
