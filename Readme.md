@@ -1,3 +1,6 @@
+# Windowed Mode for Gunbound WC v585
+![shortcut](/Untitled2.png "shortcut")
+
 ## Installation for GunboundR(gunbound.ca)
 1. Extract ddraw.dll and windowed.ini to the install directory.
 2. Set desired resolution in "windowed.ini".
