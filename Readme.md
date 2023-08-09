@@ -1,8 +1,8 @@
-### Installation for GunboundR(gunbound.ca):
+<h1>Installation for GunboundR(gunbound.ca)</h1>
 	Extract ddraw.dll and windowed.ini to the install directory.
 	Set desired resolution in "windowed.ini".
 
-### Installation for GitzWC(gitzwc.com):
+<h1>Installation for GitzWC(gitzwc.com)</h1>
 	Extract ddraw.dll and windowed.ini to the install directory.
 	Enable windowed mode in launcher options.
 	Delete these files (or move to a different location).
@@ -10,10 +10,12 @@
 	  GitzWindowMode.dll
 	  wndmode.ini
 	Set desired resolution in "windowed.ini".
-	![](/Untitled.png)
-	Create a shortcut for the launcher and never launch the game through the Updater since it will overwrite our ddraw.dll
+<p align="center">
+  <img src="/Untitled.png" title="shortcut">
+</p>
+	Create a shortcut for the launcher and always launch the game through this instead of the updater since it will overwrite our ddraw.dll
 
-### Usage:
+<h1>Usage</h1>
 	ALT+ENTER toggles fullscreen.
 	Click then drag anywhere within the top ~16 px of the window to reposition
 	in borderless windowed mode.
