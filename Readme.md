@@ -1,5 +1,6 @@
 # Windowed Mode for Gunbound WC v585
-![shortcut](/Untitled2.png "shortcut")
+![borderless windowed](/Untitled2.png "borderless windowed")
+![windowed](/Untitled3.png "windowed")
 
 ## Installation for GunboundR(gunbound.ca)
 1. Extract ddraw.dll and windowed.ini to the install directory.
